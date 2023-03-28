@@ -1,0 +1,13 @@
+{
+    "title":"测试发行nft-2",
+    "description":"登链集训营二期",
+    "image":"https://ipfs.filebase.io/ipfs/QmdXnvnC5sty61uWcJJpyhNJS7wXX1EqnTY7gyCgmT2hbR",
+    "attributes":
+    [
+        {"trait_type":"学号",
+        "value":"02002"},
+        {"trait_type":"昵称",
+    "value":"T2-3"}
+    ],
+    "version":"1_1_3"
+}
